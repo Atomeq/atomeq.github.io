@@ -1,3 +1,6 @@
+/**
+* Main
+*/
 $(window).load(function(){
 	$.backstretch([
 		  "img/bg/trac_header1.jpg",
