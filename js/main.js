@@ -158,7 +158,7 @@ function loadScript() {
   var script = document.createElement('script');
   script.type = 'text/javascript';
   script.src = 'https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&' +
-      'callback=initialize&key=AIzaSyBdxNzJxJmDEUfeE62r2hAMEGsv-oZ602A';
+      'callback=initialize&key=AIzaSyDI1lH_9ZmqrQR3QNsC4r_l8ggbr6xz9mQ';
   document.body.appendChild(script);
 }
 window.onload = loadScript;
